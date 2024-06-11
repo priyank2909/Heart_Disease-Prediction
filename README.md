@@ -1,4 +1,4 @@
-# Heart_Disease-Prediction
+# Heart-Disease-Prediction
 
 ## Table of Contents
 1) Overview
